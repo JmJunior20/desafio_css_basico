@@ -1,0 +1,34 @@
+body {
+  background-color: #111;
+}
+
+.card {
+  background-image: url(./images/backgorund.png);
+  background-size: cover;
+  width: 400px;
+  height: 200px;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+ul {  
+  list-style-position: inside;
+  padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #111;
+}
+
+.inst {
+    list-style-image: url("./images/Insta.png");
+}
+
+.twit {
+    list-style-image: url("./images/Twitter.png");
+}
+
+.youtube {
+    list-style-image: url("./images/Youtube.png");
+}
