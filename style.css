@@ -3,6 +3,8 @@ body {
 }
 
 .card {
+  display: block;
+  margin: 100px auto;
   background-image: url(./images/backgorund.png);
   background-size: cover;
   width: 400px;
